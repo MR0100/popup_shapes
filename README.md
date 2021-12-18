@@ -3,19 +3,29 @@
 Popup Shapes for Notifications and tooltips.
 ```
 ## Shapes
+<br>
 
-* TOP [ LEFT , CENTER , RIGHT ]
+> ### TOP
 
-<img src="assets/images/2.jpeg" height="100" width="300"><img src="assets/images/3.jpeg" height="100" width="300"><img src="assets/images/4.jpeg" height="100" width="300">
+| LEFT                             | CENTER                           | RIGHT                            |
+| -------------------------------- | -------------------------------- | -------------------------------- |
+| <img src="assets/images/2.jpeg"> | <img src="assets/images/3.jpeg"> | <img src="assets/images/4.jpeg"> |
 
-* CENTER [ LEFT , RIGHT ]
+<br><br>
+> ### CENTER 
 
-<img src="assets/images/1.jpeg" height="100" width="300"><img src="assets/images/5.jpeg" height="100" width="300">
+| LEFT                              | RIGHT                            |
+| --------------------------------- | -------------------------------- |
+| <img src="assets/images/1.jpeg" > | <img src="assets/images/5.jpeg"> |
 
-* BOTTOM [ RIGHT , CENTER , LEFT ]
+<br><br>
+> ### BOTTOM
 
-<img src="assets/images/6.jpeg" height="100" width="300"><img src="assets/images/7.jpeg" height="100" width="300"><img src="assets/images/8.jpeg" height="100" width="300">
-
+| RIGHT                            | CENTER                           | LEFT                             |
+| -------------------------------- | -------------------------------- | -------------------------------- |
+| <img src="assets/images/6.jpeg"> | <img src="assets/images/7.jpeg"> | <img src="assets/images/8.jpeg"> |
+<br><br>
+___
 ## How to use
 
 * import following dependencies in [pubspec.yaml](https://dart.dev/tools/pub/pubspec)

@@ -24,6 +24,7 @@ Popup Shapes for Notifications and tooltips.
 | RIGHT                            | CENTER                           | LEFT                             |
 | -------------------------------- | -------------------------------- | -------------------------------- |
 | <img src="assets/images/6.jpeg"> | <img src="assets/images/7.jpeg"> | <img src="assets/images/8.jpeg"> |
+
 <br><br>
 ___
 ## How to use
